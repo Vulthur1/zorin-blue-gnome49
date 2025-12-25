@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Zorin-Light
+Comment=Zorin OS theme for GNOME Shell 49 (Light variant)
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Zorin-Light
+MetacityTheme=Zorin-Light
+IconTheme=Zorin
+CursorTheme=Zorin
+ButtonLayout=close,minimize,maximize:menu
