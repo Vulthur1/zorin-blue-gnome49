@@ -1,12 +1,12 @@
-# Zorin Blue Theme for GNOME 49 (BETA)
+# Zorin Blue Theme for GNOME 49-50 (BETA)
 
 ![Status](https://img.shields.io/badge/Status-Beta-orange) ![AI Assisted](https://img.shields.io/badge/Made%20with-AI%20Assistance-blueviolet) ![Base](https://img.shields.io/badge/Based%20on-Flat%20Remix%20%26%20Zorin-blue)
 
-This is an **unofficial** theme for **GNOME 49**, created by merging the aesthetics of Zorin OS with the structure of the Flat Remix theme.
+This is an **unofficial** theme for **GNOME 49-50**, created by merging the aesthetics of Zorin OS with the structure of the Flat Remix theme.
 
 > **⚠️ Note:** This project is currently in **BETA**. It was created with the assistance of Artificial Intelligence. While it works, you may encounter some visual glitches.
 
-Bu proje, Zorin OS görselliğinin Flat Remix tema yapısı üzerine inşa edilmesiyle oluşturulmuş **resmi olmayan** bir GNOME 49 temasıdır.
+Bu proje, Zorin OS görselliğinin Flat Remix tema yapısı üzerine inşa edilmesiyle oluşturulmuş **resmi olmayan** bir GNOME 49-50 temasıdır.
 > **⚠️ Not:** Bu proje şu an **BETA** aşamasındadır ve oluşturulma sürecinde Yapay Zeka desteği alınmıştır. Çalışıyor olsa da bazı görsel hatalarla karşılaşabilirsiniz.
 
 ---
@@ -14,7 +14,7 @@ Bu proje, Zorin OS görselliğinin Flat Remix tema yapısı üzerine inşa edilm
 ## 🔧 Changes / Değişiklikler
 - **Base Structure:** Built upon Flat Remix for better compatibility with modern GNOME versions.
 - **Visual Style:** Customized to match the Zorin Blue aesthetic.
-- **Ported to GNOME 49:** Updated CSS classes for the new shell and quick settings.
+- **Ported to GNOME 49-50:** Updated CSS classes for the new shell and quick settings.
 - **Bug Fixes:** Resolved spacing issues and window borders.
 
 ## 🐛 Feedback & Bug Report / Hata Bildirimi
